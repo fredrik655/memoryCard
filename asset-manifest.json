@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/memoryCard/static/css/main.aa2990bd.chunk.css",
+    "main.js": "/memoryCard/static/js/main.b37f5ad9.chunk.js",
+    "main.js.map": "/memoryCard/static/js/main.b37f5ad9.chunk.js.map",
+    "runtime-main.js": "/memoryCard/static/js/runtime-main.3185a2ef.js",
+    "runtime-main.js.map": "/memoryCard/static/js/runtime-main.3185a2ef.js.map",
+    "static/js/2.963d61d7.chunk.js": "/memoryCard/static/js/2.963d61d7.chunk.js",
+    "static/js/2.963d61d7.chunk.js.map": "/memoryCard/static/js/2.963d61d7.chunk.js.map",
+    "index.html": "/memoryCard/index.html",
+    "static/css/main.aa2990bd.chunk.css.map": "/memoryCard/static/css/main.aa2990bd.chunk.css.map",
+    "static/js/2.963d61d7.chunk.js.LICENSE.txt": "/memoryCard/static/js/2.963d61d7.chunk.js.LICENSE.txt",
+    "static/media/beedrill.09108054.jpg": "/memoryCard/static/media/beedrill.09108054.jpg",
+    "static/media/blastoise.d0df3983.jpg": "/memoryCard/static/media/blastoise.d0df3983.jpg",
+    "static/media/bulbasaur.2f535837.jpg": "/memoryCard/static/media/bulbasaur.2f535837.jpg",
+    "static/media/butterfree.9d42743b.jpg": "/memoryCard/static/media/butterfree.9d42743b.jpg",
+    "static/media/caterpie.0b8d88a1.jpg": "/memoryCard/static/media/caterpie.0b8d88a1.jpg",
+    "static/media/charizard.978b13af.jpg": "/memoryCard/static/media/charizard.978b13af.jpg",
+    "static/media/charmander.892aa200.jpg": "/memoryCard/static/media/charmander.892aa200.jpg",
+    "static/media/charmeleon.825ab320.jpg": "/memoryCard/static/media/charmeleon.825ab320.jpg",
+    "static/media/ivysaur.479de5ba.jpg": "/memoryCard/static/media/ivysaur.479de5ba.jpg",
+    "static/media/kakuna.710289a4.jpg": "/memoryCard/static/media/kakuna.710289a4.jpg",
+    "static/media/metapod.19363ba7.jpg": "/memoryCard/static/media/metapod.19363ba7.jpg",
+    "static/media/pikachu.1a86c9a2.jpg": "/memoryCard/static/media/pikachu.1a86c9a2.jpg",
+    "static/media/squirtle.e417273e.jpg": "/memoryCard/static/media/squirtle.e417273e.jpg",
+    "static/media/venusaur.9806316d.jpg": "/memoryCard/static/media/venusaur.9806316d.jpg",
+    "static/media/wartortle.e34b0299.jpg": "/memoryCard/static/media/wartortle.e34b0299.jpg",
+    "static/media/weedle.ec9a91a5.jpg": "/memoryCard/static/media/weedle.ec9a91a5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3185a2ef.js",
+    "static/js/2.963d61d7.chunk.js",
+    "static/css/main.aa2990bd.chunk.css",
+    "static/js/main.b37f5ad9.chunk.js"
+  ]
+}
